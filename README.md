@@ -8,8 +8,8 @@
 
 I'm a passionate **Full Stack Developer** and **Tech Enthusiast** from Tanzania, specializing in frontend development with a keen interest in blockchain technology.
 
-- 🔭 I'm currently working on **Swirling Winds** and **Dodoma Connect Hub**
-- 🌱 I'm exploring **Blockchain Technology**
+- 🔭 I've successfully delivered **Swirling Winds** and **Dodoma Connect Hub**
+- 🌱 I'm currently exploring **Blockchain Technology**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Khalil357)
 - 💬 Ask me about **JavaScript, React, PHP, or frontend development**
 - 📫 Reach me at **khalilally58@gmail.com**
@@ -37,13 +37,17 @@ I'm a passionate **Full Stack Developer** and **Tech Enthusiast** from Tanzania,
 ### Currently Learning
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
-## 📂 Featured Projects
+## 📂 Accomplished Projects
 
-### 🌪️ [Swirling Winds](https://github.com/Khalil357/Swirling-Winds)
-A full-stack web application showcasing modern development practices and innovative features.
+### 🌍 **Dodoma Connect Hub**
+> Tanzania's first truly integrated professional support center. Founded in 2025, we unite specialists with decades of combined expertise across legal, government relations, business technology, engineering, and international trade.
 
-### 🌍 [Dodoma Connect Hub](https://github.com/Khalil357/Dodoma-Connect-Hub)
-Community-focused platform connecting tech enthusiasts in Dodoma, fostering collaboration and innovation.
+*A full-stack platform built to connect professionals and streamline access to integrated business services in Tanzania.*
+
+### 🌪️ **Swirling Winds**
+> A leading industrial services provider delivering reliable, large-scale operations across East Africa with proven expertise and regional presence.
+
+*Enterprise-level web application supporting industrial operations and service management across East Africa.*
 
 ## 📊 GitHub Analytics
 
