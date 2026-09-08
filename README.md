@@ -6,7 +6,7 @@
 
   About Me
 
-I'm a passionate **Full Stack Developer** and **Tech Enthusiast** from Tanzania, specializing in frontend development with a keen interest in blockchain technology.
+I'm a passionate **Full Stack Developer** and **Tech Enthusiast** from Tanzania, specializing in building secure and scalable web and mobile applications with React and Spring Boot .
 
 -  I've successfully delivered **Swirling Winds** and **Dodoma Connect Hub**
 -  I'm currently exploring **Blockchain Technology**
