@@ -1,25 +1,23 @@
-# Hi there, I'm Khalil Ali! 👋
+ Hi there, I'm Khalil Ali! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Frontend+Specialist;Blockchain+Explorer" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+  About Me
 
 I'm a passionate **Full Stack Developer** and **Tech Enthusiast** from Tanzania, specializing in frontend development with a keen interest in blockchain technology.
 
-- 🔭 I've successfully delivered **Swirling Winds** and **Dodoma Connect Hub**
-- 🌱 I'm currently exploring **Blockchain Technology**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Khalil357)
-- 💬 Ask me about **JavaScript, React, PHP, or frontend development**
-- 📫 Reach me at **khalilally58@gmail.com**
+-  I've successfully delivered **Swirling Winds** and **Dodoma Connect Hub**
+-  I'm currently exploring **Blockchain Technology**
+-  All of my projects are available on [GitHub](https://github.com/Khalil357)
+-  Reach me at **khalilally58@gmail.com**
 - ⚡ Fun fact: **Tech Enthusiast by day, code explorer by night**
 
-## 🛠️ Tech Stack
+Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,14 +35,14 @@ I'm a passionate **Full Stack Developer** and **Tech Enthusiast** from Tanzania,
 ### Currently Learning
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
-## 📂 Accomplished Projects
+  Accomplished Projects
 
-### 🌍 **Dodoma Connect Hub**
+**Dodoma Connect Hub**
 > Tanzania's first truly integrated professional support center. Founded in 2025, we unite specialists with decades of combined expertise across legal, government relations, business technology, engineering, and international trade.
 
 *A full-stack platform built to connect professionals and streamline access to integrated business services in Tanzania.*
 
-### 🌪️ **Swirling Winds**
+**Swirling Winds**
 > A leading industrial services provider delivering reliable, large-scale operations across East Africa with proven expertise and regional presence.
 
 *Enterprise-level web application supporting industrial operations and service management across East Africa.*
